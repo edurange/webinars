@@ -1,0 +1,45 @@
+<h1>Curriculum Development with Hands-on Exercises</h1>
+
+<h2>Begins January 15</h2>
+ 
+<h2>Learning Goals</h2>
+Participants will
+  <ul>
+    <li> Create or revise a 1-term introductory class in Cyber Security</li> 
+    <li> Incorporate hands-on exercises as homeworks and labs into their class</li> 
+  </ul>
+ 
+<h2>Workshop Description</h2>
+We are presenting three webinars on teaching cyber security with hands-on exercises.
+Each one is stand-alone but they will be coordinated, so that by the end, the attendees 
+will have a set of exercises, notes and other resources to teach a cyber security class in 
+the spring.  Different courses emphasize different domains, e.g. networking vs software systems.
+We will help you find the right materials for your requirements.
+<ul>
+  <li> Session 1: Overview of an introductory cyber security class.  We will 
+    present some syllabi that we have used for introductory classes.
+    This will include our statement of learning objectives,
+    lecture notes and exercises.  We will give an overview of some EDURange exercises
+    and how they might address some of the learning objectives.
+    Topics will include:
+    <ul>
+      <li> Ethics
+      <li> The security mindset</li>
+      <li> Access control</li>
+      <li> Applied cryptography</li> 
+      <li> Models of Security</li>
+      <li> Principles of secure system design</li>
+      <li> Security evaluation</li> 
+    </ul>
+  </li> 
+  <li> Session 2: An introduction to the EDURange framework for hands-on exercises, and why we
+    developed it.
+    <ul>
+      <li> EDURange has a collection of exercises</li>
+      <li> EDURange as a framework for creating hands-on exercises</li>
+      <li> Attendees will try one of the exercises that is provided by EDURange</li>
+    </ul>
+  </li> 
+  <li> Session 3: A survey of freely available resources.  There are a number of other resources
+  that one can incorporate into a security class.  This session will be driven by the interests of the 
+  attendees.
